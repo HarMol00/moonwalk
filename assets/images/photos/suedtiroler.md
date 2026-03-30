@@ -6,5 +6,5 @@ description: "Bilder der Südtiroler-Siedlung"
 
 photos:
     set: Suedtiroler
-    size: 1
+    size: 10
 ---
